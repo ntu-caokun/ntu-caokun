@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**ntu-caokun/ntu-caokun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
 I am a faculty member with [College of Electronic and Information Engineering](https://see-en.tongji.edu.cn/), [Shanghai Research Institute for Intelligent Autonomous Systems](https://srias.tongji.edu.cn/main.htm), [Tongji University](https://www.tongji.edu.cn). I was a Wallenberg-NTU presidential postdoctoral fellow at [KTH Royal Institute of Technology](https://www.kth.se/), Stockholm, Sweden, host by [Prof. Karl Henrik Johansson](https://people.kth.se/~kallej/index.html). 
 I did my PhD at [Nanyang Technological University](https://www.ntu.edu.sg/), where I was advised by [Prof. Lihua Xie](https://personal.ntu.edu.sg/elhxie/) and funded by the STE-NTU Corp Lab.
